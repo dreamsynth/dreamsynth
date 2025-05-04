@@ -1,4 +1,11 @@
-## Hi there 👋
+## 
+
+My name is Nik (Nikita). 
+
+<div id="tags" style="display: flex; align-items: center; justify-content: flex-start; gap: 8px;">
+  <span class="tag" style="padding: 8px; background-color: #eee; color: #333; font-size: 12px;">test</span>
+</div>
+
 
 <!--
 **dreamsynth/dreamsynth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
