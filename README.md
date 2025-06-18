@@ -1,14 +1,12 @@
-## 
+# 👋 Hi, I'm Nik 
 
-My name is Nik (Nikita). 
-
-- Building websites using HTML5, CSS3 and JavaScript;
-- Working with PHP - development and support of dynamic web pages;
-- Working with CMS: WordPress, Joomla, Drupal, 1C-Bitrix - customizing sites, adding and updating content, making adjustments;
-- Working with SQL - writing queries, experience with MySQL DBMS;
-- Prototyping and interface development in Figma;
-- Creation and processing of graphics in Adobe Photoshop, Adobe Illustrator and CorelDraw;
-- Working with AI - Stable Diffusion (Automatic1111, ComfyUI), Midjourney, ChatGPT;
-- Understanding of the principles of network protocols (TCP/IP, HTTP/HTTPS);
-- Knowledge of network configuration, routers, administration of network devices;
-- Experience in video editing (VEGAS Pro, CapCut) and working with audio (Adobe Audition, FL Studio).
+- Building responsive websites using HTML5, CSS3, and JavaScript;
+- Developing and maintaining dynamic web pages with PHP;
+- Experience with popular CMS platforms (WordPress, Joomla, Drupal, 1C-Bitrix): customizing themes, managing content, and implementing updates;
+- Writing SQL queries and working with MySQL databases;
+- Prototyping and UI/UX design in Figma;
+- Creating and editing graphics with Adobe Photoshop, Illustrator, and CorelDRAW;
+- Working with AI tools like Stable Diffusion (AUTOMATIC1111, ComfyUI), Midjourney, and ChatGPT;
+- Solid understanding of network protocols (TCP/IP, HTTP/HTTPS);
+- Familiar with network setup, router configuration, and basic network device administration;
+- Experience in video editing (VEGAS Pro, CapCut) and audio production (Adobe Audition, FL Studio).
